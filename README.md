@@ -1,2 +1,1 @@
-xmas
-====
+A Christmas card or something.
